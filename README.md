@@ -3,7 +3,7 @@ This is a perspective viewed 3D world with a static scene. The sky moves which g
 
 ![](3dWorldScreenshot.PNG)
 
-The 3D world program has taught me:
+The 3D world program has taught me
 
 * The funamentals of 3D rendering
 * Mathematics to create 3D worlds such as Polar Coordinates in 3D, matrics, vertices e.c.t
